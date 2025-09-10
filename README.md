@@ -9,7 +9,7 @@
 - 📊 Currently transitioning into **Data Analytics & Business Intelligence**  
 - 🌱 Learning and applying **Python, SQL, Power BI, and Advanced Excel**  
 - 💡 Passionate about **turning data into insights** and **solving real-world problems**  
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **rishi5790@outlook.com**
 
 ---
 
