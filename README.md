@@ -32,4 +32,4 @@
 - [LinkedIn](www.linkedin.com/in/shubham-vishwakarma-054ba4345)
 
 ---
-✨ *Bridging the gap between **Engineering Design** and **Data Analytics*** 🚀
+✨ *Turning data into meaningful decisions.*** 🚀
