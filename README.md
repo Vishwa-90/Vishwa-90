@@ -7,7 +7,7 @@
 - 🏗️ 5+ years of experience as **Educator, Design Engineer, and Service Supervisor**  
 - 🎨 Skilled in **Mechanical Design & CAD Software** (AutoCAD, CATIA V5, SolidWorks, UG NX)  
 - 📊 Currently transitioning into **Data Analytics & Business Intelligence**  
-- 🌱 Learning and applying **Python, SQL, Power BI, and Advanced Excel**  
+- 🌱 Learning and applying **Python, Data-Driven ML-Model, SQL, Power BI, and Advanced Excel**  
 - 💡 Passionate about **turning data into insights** and **solving real-world problems**  
 - 📫 Reach me at: **rishi5790@outlook.com**
 
