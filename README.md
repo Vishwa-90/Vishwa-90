@@ -12,10 +12,15 @@ I have experience working in fast-paced operational & desigining environments, p
 
 ##🔧 Technical Skills
 **Languages & Tools:** SQL | Python | Excel | Power BI
+
 **Python Libraries:** Pandas | NumPy | Matplotlib | Seaborn | SciPy | Scikit-learn
+
 **SQL Concepts:** Joins | CTEs | Window Functions
+
 **Analytics:** KPI Tracking | Statistical Analysis | Regression | Classification
+
 **Business Intelligence:** Dashboard Development | Reporting Automation
+
 **Other Tools:** Git | Jupyter Notebook
 
 ---
