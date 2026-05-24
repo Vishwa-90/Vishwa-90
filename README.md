@@ -9,12 +9,12 @@ My projects focus on areas like logistics analytics, banking risk analysis, cust
 I have experience working in fast-paced operational & desigining environments, performing root cause analysis, tracking business metrics,reporting,documentation and building interactive dashboards for decision-making. I’m also passionate about continuous learning, financial markets, and using analytics to drive business growth.
 
 🔧 Technical Skills
-Languages & Tools: SQL, Python, Excel, Power BI
-Python Libraries: Pandas, NumPy, Matplotlib,Seaborn, SciPy, Scikit-learn
-SQL Concepts: Joins, CTEs, Window Functions
-Analytics: KPI Tracking, Statistical Analysis, Regression, Classification
-Business Intelligence: Dashboard Development, Reporting Automation
-Other Tools: Git, Jupyter Notebook
+**Languages & Tools:** SQL, Python, Excel, Power BI
+**Python Libraries:** Pandas, NumPy, Matplotlib,Seaborn, SciPy, Scikit-learn
+**SQL Concepts:** Joins, CTEs, Window Functions
+**Analytics:** KPI Tracking, Statistical Analysis, Regression, Classification
+**Business Intelligence:** Dashboard Development, Reporting Automation
+**Other Tools:** Git, Jupyter Notebook
 
 ---
 
