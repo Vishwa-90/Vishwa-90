@@ -54,39 +54,25 @@ Every single one of these roles taught me something valuable, but more than anyt
 
 ## Phase 1: Descriptive Analytics (What Happened?)
 
-I treat data cleaning and ETL as foundational engineering steps.
-
-Using **SQL, Power Query, and Python**, I transform messy datasets into clean, single sources of truth, then build intuitive **Power BI dashboards** so stakeholders have instant visibility into operational performance.
+I treat data cleaning and ETL as foundational engineering steps.Using **SQL, Power Query, and Python**, I transform messy datasets into clean, single sources of truth, then build intuitive **Power BI dashboards** so stakeholders have instant visibility into operational performance.
 
 ---
 
-## Phase 2: Diagnostic Analytics (Why Did It Happen?)
+## Phase 2: Diagnostic Analytics (Why Did It Happen?) ### Process Optimization
 
-### Process Optimization
-
-Drawing on my background as a **Floor Supervisor** and **Design Engineer**, I don't just look at chart anomalies—I conduct **root-cause analysis**.
-
-I translate business requirements into efficient data-driven workflows, pinpointing exactly where operational bottlenecks and inefficiencies live.
+Drawing on my background as a **Floor Supervisor** and **Design Engineer**, I don't just look at chart anomalies—I conduct **root-cause analysis**.I translate business requirements into efficient data-driven workflows, pinpointing exactly where operational bottlenecks and inefficiencies live.
 
 ---
 
-## Phase 3: Predictive Analytics (What Will Happen Next?)
+## Phase 3: Predictive Analytics (What Will Happen Next?) ### Predictive & Analytical Models
 
-### Predictive & Analytical Models
-
-I scale beyond historical reporting by leveraging **Python, statistical analysis, and Machine Learning**.
-
-By building forecasting models (such as cost predictions or trend analysis), I help organizations shift from reactive troubleshooting to proactive strategy.
+I scale beyond historical reporting by leveraging **Python, statistical analysis, and Machine Learning**.By building forecasting models (such as cost predictions or trend analysis), I help organizations shift from reactive troubleshooting to proactive strategy.
 
 ---
 
-## Phase 4: Prescriptive Analytics (How Can We Make It Happen?)
+## Phase 4: Prescriptive Analytics (How Can We Make It Happen?) ### Strategic Decision Support
 
-### Strategic Decision Support
-
-The ultimate goal of my data pipeline.
-
-I deliver actionable insights and automated reporting structures that guide stakeholders on the next best operational step, directly linking data analysis to measurable business growth.
+The ultimate goal of my data pipeline.I deliver actionable insights and automated reporting structures that guide stakeholders on the next best operational step, directly linking data analysis to measurable business growth.
 
 ---
 
@@ -106,9 +92,8 @@ This GitHub profile showcases my work in:
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** *Add your LinkedIn URL*
-* **GitHub:** *Add your GitHub URL*
-* **Email:** *Add your Email Address*
+* **LinkedIn:** *www.linkedin.com/in/shubham-vishwakarma-054ba4345*
+* **Email:** *rishi5790@outlook.com*
 
 ---
 
